@@ -1,6 +1,6 @@
 # Privacy Policy for Little Learners Lab
 
-_Last updated: August 12, 2026_
+_Last updated: September 23, 2026_
 
 Little Learners Lab is built for kids ages 4–5 and their parents. We respect your family's privacy. This policy explains what data the app does and does not handle.
 
@@ -13,7 +13,7 @@ Little Learners Lab does not collect, transmit, store on any server, or share an
 The app stores the following information locally on your device, using iOS's standard preferences storage:
 
 - **Player name** — the name you enter during onboarding (optional; can be skipped or left blank). Used only to greet your child on the home screen.
-- **Language preferences** — your chosen primary and optional secondary language (English, Spanish, French, or Italian). Used only to display and narrate the app in the languages you select.
+- **Language preferences** — your chosen primary and optional secondary language (English, Spanish, French, Italian, or Brazilian Portuguese). Used only to display and narrate the app in the languages you select.
 - **App settings** — onboarding status, narration preference, and tracing layout choices. Used only to remember how you configured the app.
 - **Game progress** — activity completion and progress information. Used only to show progress and guide the next activity on this device.
 
